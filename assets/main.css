@@ -404,6 +404,12 @@ body {
   max-width: 500px;
   margin: 0 auto; }
 
+.case img {
+  width: 100%;
+  max-width: 400px;
+  margin: 30px auto;
+  display: block; }
+
 .contact-us {
   margin: 30px 0;
   text-align: center; }

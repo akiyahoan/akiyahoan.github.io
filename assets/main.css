@@ -446,6 +446,14 @@ body {
     margin-top: 15px;
     padding: 0 15px; }
 
+.formspree input {
+  display: block;
+  width: 400px;
+  margin: 15px auto;
+  padding: 10px; }
+.formspree input:nth-child(3) {
+  height: 300px; }
+
 /**
  * Site header
  */

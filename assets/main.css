@@ -449,6 +449,7 @@ body {
 .formspree input {
   display: block;
   width: 400px;
+  max-width: 100%;
   margin: 15px auto;
   padding: 10px; }
 .formspree input:nth-child(3) {

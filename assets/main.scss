@@ -332,7 +332,7 @@ body {
 
 .customer-quote {
   width: 100%;
-  background: repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 1px, transparent 1px, transparent 3px);
+  background: repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 1px, rgba(0, 0, 0, 0) 1px, rgba(0, 0, 0, 0) 3px);
   padding: 50px;
   box-sizing: border-box; }
   @media screen and (max-width: 600px) {
@@ -815,3 +815,5 @@ body {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+/*# sourceMappingURL=main.scss.map */
